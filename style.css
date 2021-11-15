@@ -1,0 +1,22 @@
+
+body {
+
+}
+
+p{
+	font-style: italic;
+	color : red;
+	font-family:  tahoma;
+}
+
+h3{
+	margin-top: 1;
+	margin-bottom: 0.5rem;
+}
+
+.halaman:hover{
+	font-size: 40px;
+}
+.halaman:visited{
+	color:  green;
+}
